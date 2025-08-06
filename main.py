@@ -36,7 +36,7 @@ prompt = ChatPromptTemplate.from_messages(
 
 
 
-""" response = llm.invoke("what is the capital of France?")
+response = llm.invoke("what is the capital of France?")
 
 print("Respuesta recibida:")
-print(response.content) """
+print(response.content)
