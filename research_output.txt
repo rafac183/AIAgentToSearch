@@ -1,5 +1,10 @@
 --- Research Output ---
-Timestamp: 2025-08-06 20:26:48
+Timestamp: 2025-08-06 20:18:19
 
-Chile, oficialmente la República de Chile, es un país en el oeste de América del Sur. Está situado a lo largo de la costa occidental del cono sur, entre la Cordillera de los Andes y el Océano Pacífico. La lengua oficial es el español y la moneda es el peso chileno. Tiene una población de más de 19.6 millones de personas. Su cultura es una mezcla de tradiciones indígenas y europeas.
+topic='Inteligencia Artificial' summary='La inteligencia artificial (IA) es un campo de la informática dedicado a la creación de sistemas que pueden realizar tareas que normalmente requieren inteligencia humana. Esto incluye el aprendizaje, el razonamiento, la percepción, la comprensión del lenguaje, y la toma de decisiones. La IA puede adoptar diversas formas, desde algoritmos simples hasta redes neuronales complejas, y se aplica en múltiples áreas como la medicina, la robótica, y la tecnología de la información.' sources=['https://es.wikipedia.org/wiki/Inteligencia_artificial'] tools_used=['wikipedia', 'search']
+
+--- Research Output ---
+Timestamp: 2025-08-06 20:23:26
+
+topic='China' summary='China, oficialmente la República Popular de China (RPC), es un país en Asia Oriental. La historia de China abarca varios milenios a través de una amplia geografía. La economía de la República Popular China es un mercado socialista mixto en desarrollo. La cultura china es rica y diversa, reflejando una herencia milenaria.' sources=['https://es.wikipedia.org/wiki/China', 'https://es.wikipedia.org/wiki/Historia_de_China', 'https://es.wikipedia.org/wiki/Econom%C3%ADa_de_China', 'https://es.wikipedia.org/wiki/Cultura_de_China'] tools_used=['wikipedia']
 
